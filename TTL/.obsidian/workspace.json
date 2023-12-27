@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "917802fde6aad3a0",
@@ -136,14 +136,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "905571866d680148",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +165,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d2cc8bc842f0106",
+  "active": "acfbf1d08560fafa",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-27 12.09.41.excalidraw.md",
+    "0-未整理資料/2023-12-27.md",
+    "Excalidraw",
     "_attachments/test.png",
     "_attachments/2023-12-26 下午 06-08-28.png",
     "0-未整理資料/未命名.md",
-    "0-未整理資料/2023-12-27.md",
     "80T/05.MAGMAT/未命名.canvas",
     "0-未整理資料/未命名 1.md",
     "80C/05.MAGMAT/未命名.canvas",
@@ -177,7 +186,6 @@
     "1-8/05.MAGMAT/未命名",
     "1-8/05.MAGMAT",
     "1-8/04.RTS",
-    "1-8/03.MAX",
     "0-未整理資料/未命名 2.md",
     "未命名.md",
     "未命名 1.md",
