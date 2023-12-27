@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "3323e41c5a6b70d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "54c409da82f15fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf4d517a3863bd7d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0eb633a31215c042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c4f7285c3ee7793",
+    "type": "split",
+    "children": [
+      {
+        "id": "2636aff483c58913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "424caaa6a83a209a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65828d226f221b42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ef3085a12402dc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76d6603d1a2b5657",
+    "type": "split",
+    "children": [
+      {
+        "id": "380ef781db291a48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01fb00d02682ac39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f98ac97f73a90313",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7df9a60280846460",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6eef0a09e1ed4eb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "0eb633a31215c042",
+  "lastOpenFiles": [
+    "未命名.md",
+    "TTL/未命名.md",
+    "TTL/80T/05.MAGMAT/未命名",
+    "TTL/80T/05.MAGMAT",
+    "TTL/80T/未命名",
+    "TTL/80T/04.RTS",
+    "TTL/80T/03.MAX",
+    "TTL/80T/02.SE",
+    "TTL/80T/01.VE",
+    "TTL/80T/1.VE",
+    "TTL/80T/VE",
+    "TTL/80T"
+  ]
+}
