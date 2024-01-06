@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "0-未整理資料",
   "attachmentFolderPath": "_attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
