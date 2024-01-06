@@ -4,5 +4,6 @@
   "attachmentFolderPath": "_attachments",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "livePreview": true
 }
