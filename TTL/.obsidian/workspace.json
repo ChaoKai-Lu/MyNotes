@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +167,12 @@
   },
   "active": "5d2cc8bc842f0106",
   "lastOpenFiles": [
-    "_attachments/test.png",
+    "0-未整理資料/未命名.md",
     "0-未整理資料/2023-12-27.md",
+    "_attachments/test.png",
     "Excalidraw/Drawing 2023-12-27 12.09.41.excalidraw.md",
     "Excalidraw",
     "_attachments/2023-12-26 下午 06-08-28.png",
-    "0-未整理資料/未命名.md",
     "80T/05.MAGMAT/未命名.canvas",
     "0-未整理資料/未命名 1.md",
     "80C/05.MAGMAT/未命名.canvas",
