@@ -3,5 +3,6 @@
   "newFileFolderPath": "0-未整理資料",
   "attachmentFolderPath": "_attachments",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "showLineNumber": true
 }

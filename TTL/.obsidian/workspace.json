@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "40f25166b0414e35",
+        "id": "2ac8feb34f0fc67f",
         "type": "tabs",
         "children": [
           {
-            "id": "5d2cc8bc842f0106",
+            "id": "313af96e47051310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0-未整理資料/2023-12-27.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1be38b6594113243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "568ea8e9757f3d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-未整理資料/2023-12-27.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,11 +164,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +184,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d2cc8bc842f0106",
+  "floating": {
+    "id": "b67a5cea2bd6ab36",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8eb9d55be6a42672",
+        "type": "window",
+        "children": [
+          {
+            "id": "18786ca07417b9c1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cb9d7faafc4269e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-未整理資料/2023-12-27.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 128,
+        "y": 0,
+        "width": 1024,
+        "height": 680,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "568ea8e9757f3d6f",
   "lastOpenFiles": [
-    "0-未整理資料/未命名.md",
     "0-未整理資料/2023-12-27.md",
+    "0-未整理資料/未命名.md",
     "_attachments/test.png",
     "Excalidraw/Drawing 2023-12-27 12.09.41.excalidraw.md",
     "Excalidraw",
