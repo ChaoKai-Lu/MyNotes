@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "857e4a7e958bedc3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +214,7 @@
       }
     ]
   },
-  "active": "73c49abfeda4c0d9",
+  "active": "857e4a7e958bedc3",
   "lastOpenFiles": [
     "HNB",
     "0-未整理資料/www.google.com.md",
